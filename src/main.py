@@ -1,8 +1,8 @@
 import argparse
 import datetime
 from tabulate import tabulate
-from src.reports import ReportFactory
-import src.average_report
+from reports import ReportFactory
+import average_report
 import json
 
 

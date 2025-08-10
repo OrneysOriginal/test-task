@@ -1,4 +1,4 @@
-from src.reports import Report, ReportFactory
+from reports import Report, ReportFactory
 
 
 @ReportFactory.register("average")
